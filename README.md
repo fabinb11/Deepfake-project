@@ -7,3 +7,8 @@ Deepfakes are synthetic media created using AI technologies, capable of altering
 Developing Detection Algorithms: Implementing and optimizing AI-based models to identify deepfakes in video, audio, and multimodal media.
 Curating Datasets: Providing labeled datasets tailored for training and evaluating detection systems.
 Enhancing Democratic Integrity: Supporting research and tools that safeguard elections from manipulation.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/fabinb11/IASP470-capstone-appendix.git]
+   cd IASP470-capstone-appendix
