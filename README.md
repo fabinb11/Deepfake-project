@@ -12,3 +12,6 @@ Enhancing Democratic Integrity: Supporting research and tools that safeguard ele
    ```bash
    git clone [https://github.com/fabinb11/IASP470-capstone-appendix.git]
    cd IASP470-capstone-appendix
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
